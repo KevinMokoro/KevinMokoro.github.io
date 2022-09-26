@@ -234,7 +234,7 @@ header {
         grid-row: 2;
         text-align: right;
         position: relative;
-        left: -1.5em;
+        left: -0.5em;
         width: calc(100% + 1.5em);
     }
 }
@@ -332,7 +332,7 @@ header {
 @supports (display: grid) {
 .portfolio {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
 
 }
 }
