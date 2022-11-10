@@ -26,5 +26,5 @@ deferredInstallPrompt.userChoice
     window.addEventListener('appinstalled', logAppInstalled);
 
     function logAppInstalled(evt){
-        console.log('Licio Lentimo App was installed.', evt);
+        console.log('Kevin Mokoro App was installed.', evt);
     }

@@ -7,10 +7,6 @@ const CACHE_NAME = 'static-cache-v1';
 const FILES_TO_CACHE = [
     '/index.html',
     '/img/moringa.png',
-    '/img/lentimo.jpg',
-    '/img/safina.png',
-    '/img/semantic.png',
-    '/img/total.png',
     '/img/news.jpg',
     '/img/laptop.jpg',
 ];
